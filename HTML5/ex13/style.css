@@ -2,4 +2,10 @@
 
 body {
     background-color:rgba(73, 175, 95, 0.438);
+    display: block;
+}
+
+p {
+    display: flex;
+    align-items: flex-end;
 }
